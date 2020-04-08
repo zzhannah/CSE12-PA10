@@ -1,8 +1,8 @@
 #
-#												Han Zhang
-#												CSE 12, Winter 2020
-#												March 21st, 2020
-#												cs12wi20kj
+#							Han Zhang
+#							CSE 12, Winter 2020
+#							March 21st, 2020
+#							cs12wi20kj
 #
 # This is the Makefile to use for Final Assignment 
 # To use, at the prompt, type:
